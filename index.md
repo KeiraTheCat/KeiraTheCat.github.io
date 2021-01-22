@@ -1,5 +1,5 @@
 ---
-title: Keira Karanik
+title: Index
 ---
 
 ## Quad-It: FPV Simulator
