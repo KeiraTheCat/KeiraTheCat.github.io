@@ -8,5 +8,5 @@ Unfinished experiment into making a VR rhythm game. This was my first time exper
 * Dynamically populate user interfaces via each songs matching json files
 * Read and play songs from prepared json file data
 * Synchronise gameplay to music via UE4's TimeSynth module
-* Dyamically effect music via motion controllers
+* Dyamically affect music via motion controllers
 * Capable of converting maps from other popular VR Rhythm games
