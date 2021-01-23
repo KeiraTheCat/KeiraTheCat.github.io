@@ -11,8 +11,15 @@ footer {
   display: none !important;
 }
 
-@media screen and (max-width: 600px) {
-  .coler {
-    width: 100%;
-  }
+.coler {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
 }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
