@@ -6,3 +6,7 @@ title: Keira Karanik
 [![qdt](img/qd.png)](/qdit)
 ## Shatterfield
 [![shtrfld](img/shtfld.png)](/shtrfld)
+## Fairy Cities
+[![fc](img/fc.png)](/fthing)
+## Rhythm VR
+[![fc](img/rhthmvr.png)](/vr)
