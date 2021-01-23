@@ -2,8 +2,10 @@
 title: Keira Karanik
 ---
 
+<div class="coler">
 ## Quad-It: FPV Simulator
 [![qdt](img/qd.png)](/qdit)
+</div>
 ## Shatterfield
 [![shtrfld](img/shtfld.png)](/shtrfld)
 ## Fairy Cities
