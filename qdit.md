@@ -1,3 +1,6 @@
+---
+title: Keira Karanik
+---
 [![Itch](img/qdtBanner.png)](https://risenfield.itch.io/quad-it)
 ### Quad-It: FPV Simulator
 [Free on itch.io](https://risenfield.itch.io/quad-it)
