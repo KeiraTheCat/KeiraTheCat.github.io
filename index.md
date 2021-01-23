@@ -1,7 +1,7 @@
 ---
 title: Keira Karanik
 ---
-<div class="row" markdown="1" style="width:800px; margin:0 auto;">
+<div class="row" markdown="1">
 <div class="coler" markdown="1">
 ## Quad-It: FPV Simulator
 [![qdt](img/qd.png)](/qdit)

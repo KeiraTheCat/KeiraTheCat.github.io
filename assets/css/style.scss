@@ -16,7 +16,10 @@ footer {
   width: 33.33%;
   padding: 10px;
 }
-
+.row{
+	margin-left: auto;
+    margin-right: auto;
+}
 .row:after {
   content: "";
   display: table;
